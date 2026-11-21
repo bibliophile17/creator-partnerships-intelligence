@@ -1,0 +1,766 @@
+[
+  {
+    "id": "c01",
+    "name": "RaviInteriors",
+    "handle": "@RaviInteriorsGuide",
+    "channelUrl": "https://www.youtube.com/@RaviInteriorsGuide",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Home",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 117000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Home interiors guidance (hypothesis from channel name/listing; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Interior-guidance content is generally brand-adjacent; review back catalogue before outreach",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Bedroom set-up and mattress/bedding placement inside room-makeover content",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Interior Design YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/interior-design"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 6,
+      "content": 8,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 8
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c02",
+    "name": "Home Decor सजावट",
+    "handle": "@Rupalidecor",
+    "channelUrl": "https://www.youtube.com/@Rupalidecor",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Home",
+    "language": "Not verified (channel name in Devanagari script)",
+    "languageStatus": "not-verified",
+    "subscribers": 105000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Home decor (hypothesis from channel name/listing; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Review back catalogue before outreach",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Bedroom refresh and 'sleep corner' styling integrations",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Interior Design YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/interior-design"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 6,
+      "content": 8,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 8
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c03",
+    "name": "Gourav Kala Architects",
+    "handle": "@gouravkalaarchitects",
+    "channelUrl": "https://www.youtube.com/@gouravkalaarchitects",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Home",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 78800,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Architect-led design content (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Professional-services positioning; integration style needs checking",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Expert-led 'designing a bedroom for sleep' explainer",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Interior Design YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/interior-design"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 5,
+      "content": 7,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 6
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c04",
+    "name": "Decorate with Manas",
+    "handle": "@DecoratewithManas",
+    "channelUrl": "https://www.youtube.com/@DecoratewithManas",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Home",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 63400,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Home decor (hypothesis from channel name/listing; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Smaller channel; verify posting cadence",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Room-makeover with bed and mattress as the hero product",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Interior Design YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/interior-design"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 6,
+      "content": 8,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 8
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c05",
+    "name": "Santosh Nile",
+    "handle": "@SantoshNile",
+    "channelUrl": "https://www.youtube.com/@SantoshNile",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Home",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 54900,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Listed under interior design; content focus not verified",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Content focus not verified; confirm fit before shortlisting",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Possible small-home furnishing integrations",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Interior Design YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/interior-design"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 5,
+      "content": 6,
+      "consistency": 5,
+      "suitability": 6,
+      "integration": 6
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c06",
+    "name": "KabitasLifeStyle",
+    "handle": "@KabitasLifeStyle",
+    "channelUrl": "https://www.youtube.com/@KabitasLifeStyle",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Lifestyle",
+    "language": "Hindi (inferred by aggregator from video titles)",
+    "languageStatus": "inferred",
+    "subscribers": 324000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Home and family lifestyle (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Family-oriented audience likely; verify",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Home-routine integrations: evening routine, bedroom reset",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian DIY YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/diy"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 7,
+      "content": 7,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 8
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c07",
+    "name": "Pallavi Pandey",
+    "handle": "@Officialpallavipandey",
+    "channelUrl": "https://www.youtube.com/@Officialpallavipandey",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Lifestyle",
+    "language": "Hindi (inferred by aggregator from video titles)",
+    "languageStatus": "inferred",
+    "subscribers": 808000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Lifestyle (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Verify content mix before outreach",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Routine and home-upgrade integrations",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian DIY YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/diy"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 7,
+      "content": 6,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 7
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c08",
+    "name": "Javeria Khan",
+    "handle": "@Javeria.Khan_360",
+    "channelUrl": "https://www.youtube.com/@Javeria.Khan_360",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Lifestyle",
+    "language": "Hinglish (inferred by aggregator from video titles)",
+    "languageStatus": "inferred",
+    "subscribers": 896000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Lifestyle (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Verify content mix before outreach",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Home and routine integrations",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian DIY YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/diy"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 7,
+      "content": 6,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 7
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c09",
+    "name": "Tales of Quppi",
+    "handle": "@talesofquppii",
+    "channelUrl": "https://www.youtube.com/@talesofquppii",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Lifestyle",
+    "language": "Malayalam (inferred by aggregator from video titles)",
+    "languageStatus": "inferred",
+    "subscribers": 446000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Lifestyle (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Verify content mix before outreach",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Regional-language (Malayalam) test cell for the campaign",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian DIY YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/diy"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 6,
+      "content": 6,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 7
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c10",
+    "name": "Indian Vlogger Soumi",
+    "handle": "@IndianVloggerSoumi",
+    "channelUrl": "https://www.youtube.com/@IndianVloggerSoumi",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Lifestyle",
+    "language": "Bengali (inferred by aggregator from video titles)",
+    "languageStatus": "inferred",
+    "subscribers": 169000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Vlog-style lifestyle (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Verify content mix before outreach",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Regional-language (Bengali) test cell; home-day-in-the-life integrations",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian DIY YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/diy"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 6,
+      "content": 6,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 7
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c11",
+    "name": "Soni Charak",
+    "handle": "@stop_n_paint",
+    "channelUrl": "https://www.youtube.com/@stop_n_paint",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Lifestyle",
+    "language": "Hindi (inferred by aggregator from video titles)",
+    "languageStatus": "inferred",
+    "subscribers": 95000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Lifestyle/DIY (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Verify content mix before outreach",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "DIY room-refresh integration",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian DIY YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/diy"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 5,
+      "content": 5,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 6
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c12",
+    "name": "Psychology Seekho",
+    "handle": "@PsychologySeekho",
+    "channelUrl": "https://www.youtube.com/@PsychologySeekho",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Wellness",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 939000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Psychology / mental wellbeing explainers (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Mental-health-adjacent content: avoid medical or therapeutic claims; legal review of claims required",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "'Sleep and mind' educational segment",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Health YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/health"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 7,
+      "content": 8,
+      "consistency": 5,
+      "suitability": 6,
+      "integration": 6
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c13",
+    "name": "Dr. Yokesh Arul",
+    "handle": "@dr.yokesharul",
+    "channelUrl": "https://www.youtube.com/@dr.yokesharul",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Wellness",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 829000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Health education (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Health-professional channel: advertising and claims rules need legal review",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Expert-led sleep-hygiene explainer",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Health YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/health"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 6,
+      "content": 7,
+      "consistency": 5,
+      "suitability": 5,
+      "integration": 6
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c14",
+    "name": "Cycle Baba",
+    "handle": "@cyclebaba",
+    "channelUrl": "https://www.youtube.com/@cyclebaba",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Wellness",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 794000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Health and fitness (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Verify content mix before outreach",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Recovery and sleep segment",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Health YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/health"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 6,
+      "content": 6,
+      "consistency": 5,
+      "suitability": 6,
+      "integration": 5
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c15",
+    "name": "Holistic Fitness with Tronzy",
+    "handle": "@HolisticFitnesswithTronzy",
+    "channelUrl": "https://www.youtube.com/@HolisticFitnesswithTronzy",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Wellness",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 511000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Fitness and holistic wellness (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Verify content mix before outreach",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Recovery-and-sleep routine integration",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Health YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/health"
+      },
+      {
+        "label": "Modash: Top 20 Indian Fitness YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/fitness"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 6,
+      "content": 7,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 7
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c16",
+    "name": "Dr Mukul Saldi",
+    "handle": "@drmukulsaldi",
+    "channelUrl": "https://www.youtube.com/@drmukulsaldi",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Wellness",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 209000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Health education (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Health-professional channel: claims rules need legal review",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Expert-led sleep explainer",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Health YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/health"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 6,
+      "content": 7,
+      "consistency": 5,
+      "suitability": 5,
+      "integration": 6
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c17",
+    "name": "Technology Gyan",
+    "handle": "Not verified",
+    "channelUrl": "https://www.youtube.com/results?search_query=Technology+Gyan",
+    "channelLinkType": "search-link-only",
+    "category": "Technology",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 15900000,
+    "subscribersAsOf": "2026-11-01 (page label 'Updated on November 1, 2026')",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "Source labels this figure 'followers', not subscribers; treat as approximate.",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Technology explainers (hypothesis; formats not verified)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Very large reach, low category relevance; verify channel identity via search link",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Smart-home or sleep-tech tie-in only; weak category fit for mattresses",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Heepsy: Top Tech YouTube influencers in India",
+        "url": "https://www.heepsy.com/top-youtube/tech/india"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 4,
+      "content": 4,
+      "consistency": 5,
+      "suitability": 7,
+      "integration": 5
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c18",
+    "name": "Tech Master",
+    "handle": "Not verified",
+    "channelUrl": "https://www.youtube.com/results?search_query=Tech+Master",
+    "channelLinkType": "search-link-only",
+    "category": "Technology",
+    "language": "Not verified",
+    "languageStatus": "not-verified",
+    "subscribers": 28500000,
+    "subscribersAsOf": "2026-11-01 (page label 'Updated on November 1, 2026')",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "Source labels this figure 'followers', not subscribers; treat as approximate.",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Listed in a technology ranking; actual content mix not verified",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Content mix not verified; confirm before use",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Mass-reach awareness test only",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Heepsy: Top Tech YouTube influencers in India",
+        "url": "https://www.heepsy.com/top-youtube/tech/india"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 4,
+      "content": 4,
+      "consistency": 5,
+      "suitability": 6,
+      "integration": 4
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c19",
+    "name": "TechCM Shorts",
+    "handle": "@techcmshorts",
+    "channelUrl": "https://www.youtube.com/@techcmshorts",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Technology",
+    "language": "English (inferred by aggregator)",
+    "languageStatus": "inferred",
+    "subscribers": 535000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "Listed under productivity, not technology, on the source page; category is an analyst assignment.",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Shorts-led (hypothesis from channel name)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Short-form format limits product explanation",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Shorts-only integrations; limited depth for a considered purchase",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian Productivity YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/productivity"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 4,
+      "content": 4,
+      "consistency": 5,
+      "suitability": 6,
+      "integration": 4
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  },
+  {
+    "id": "c20",
+    "name": "KL3tech",
+    "handle": "@Kl3tech",
+    "channelUrl": "https://www.youtube.com/@Kl3tech",
+    "channelLinkType": "handle-from-aggregator",
+    "category": "Technology",
+    "language": "Malayalam (inferred by aggregator from video titles)",
+    "languageStatus": "inferred",
+    "subscribers": 110000,
+    "subscribersAsOf": "11/09/2026 (date format ambiguous on source page; read on 2026-11-21)",
+    "subscribersSource": "Third-party aggregator listing; not confirmed on YouTube",
+    "subscribersNote": "",
+    "recentVideoViews": null,
+    "recentVideoViewsNote": "Not verified. Add median views of the last 10 long-form videos from YouTube Studio or public channel pages.",
+    "contentFormat": "Technology (hypothesis from channel name)",
+    "contentFormatStatus": "hypothesis",
+    "brandIntegrations": "Not verified",
+    "brandSuitability": "Verify content mix before outreach",
+    "brandSuitabilityStatus": "analyst-assessment",
+    "partnershipOpportunity": "Regional-language smart-home or sleep-tech angle",
+    "partnershipOpportunityStatus": "hypothesis",
+    "sourceLinks": [
+      {
+        "label": "Modash: Top 20 Indian DIY YouTubers",
+        "url": "https://www.modash.io/find-influencers/youtube/india/diy"
+      }
+    ],
+    "researchDate": "2026-11-21",
+    "scores": {
+      "audience": 4,
+      "content": 5,
+      "consistency": 5,
+      "suitability": 6,
+      "integration": 5
+    },
+    "scoreBasis": "Analyst estimates on a 0-10 scale, NOT measured data. Audience relevance has no verified demographics behind it. View consistency is a neutral placeholder (5) because recent view data is not verified. Replace with evidence as you verify."
+  }
+]

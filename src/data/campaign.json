@@ -1,0 +1,14 @@
+{
+  "_label": "SIMULATED DATA. Illustrative numbers for a hypothetical campaign. Not real performance of any brand or creator.",
+  "name": "Better Sleep, Better Living",
+  "brand": "Wakefit (hypothetical example; no relationship implied)",
+  "aovInr": 18000,
+  "lines": [
+    { "id": "l1", "label": "Home decor long-form integration (simulated)", "category": "Home", "spendInr": 600000, "impressions": 3000000, "viewRatePct": 6.5, "avdSec": 210, "videoLenSec": 600, "ctrPct": 2.2, "cvrPct": 3.0 },
+    { "id": "l2", "label": "Home makeover series, 2 videos (simulated)", "category": "Home", "spendInr": 500000, "impressions": 2200000, "viewRatePct": 6.0, "avdSec": 240, "videoLenSec": 720, "ctrPct": 2.0, "cvrPct": 3.2 },
+    { "id": "l3", "label": "Hindi lifestyle routine video (simulated)", "category": "Lifestyle", "spendInr": 450000, "impressions": 3500000, "viewRatePct": 5.5, "avdSec": 150, "videoLenSec": 540, "ctrPct": 1.4, "cvrPct": 2.4 },
+    { "id": "l4", "label": "Regional-language lifestyle test cell (simulated)", "category": "Lifestyle", "spendInr": 300000, "impressions": 2000000, "viewRatePct": 5.8, "avdSec": 165, "videoLenSec": 480, "ctrPct": 1.6, "cvrPct": 2.1 },
+    { "id": "l5", "label": "Wellness expert sleep explainer (simulated)", "category": "Wellness", "spendInr": 400000, "impressions": 3000000, "viewRatePct": 5.0, "avdSec": 280, "videoLenSec": 600, "ctrPct": 1.1, "cvrPct": 2.0 },
+    { "id": "l6", "label": "Paid boost of best-performing video (simulated)", "category": "Boost", "spendInr": 250000, "impressions": 4000000, "viewRatePct": 4.0, "avdSec": 60, "videoLenSec": 300, "ctrPct": 0.9, "cvrPct": 1.8 }
+  ]
+}
